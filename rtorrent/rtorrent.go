@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mrobinsn/go-rtorrent/xmlrpc"
+	"github.com/Burmudar/go-rtorrent/xmlrpc"
 	"github.com/pkg/errors"
 )
 
